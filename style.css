@@ -37,7 +37,11 @@ form {
     width: 100%;
     max-width: 350px;
     padding: 1rem;
+<<<<<<< Updated upstream
     background: steelblue;
+=======
+    background: rgb(0, 0, 0);
+>>>>>>> Stashed changes
     border-radius: .5rem;
     text-align: center;
     color: white;
